@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cookify</string>
+    <string name="keyword">Ini gambar apa? berikan resep dan cara memasaknya dalam bahasa Indonesia</string>
+    <string name="no_image">Tidak ada gambar</string>
+</resources>
